@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="plugin.video.mafiastreams" version="2.5" name="Mafia Streams" provider-name="MafiaStreams">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>        
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Contact mafiastreams@gmail.com</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <source></source>
+        <email></email>
+    </extension>
+</addon>
