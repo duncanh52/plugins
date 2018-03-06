@@ -272,7 +272,7 @@
 </addon>
 <addon id="plugin.video.SkyNet"
        name="SkyNet"
-       version="4.0.7"
+       version="4.0.8"
        provider-name="SkyNet">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
