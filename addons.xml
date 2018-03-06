@@ -239,7 +239,7 @@
 </addon>
 <addon id="plugin.video.MaverickTV"
        name="[COLOR lime]Maverick TV[/COLOR]"
-       version="8.8"
+       version="8.9"
        provider-name="Maverick">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
