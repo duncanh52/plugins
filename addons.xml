@@ -331,7 +331,7 @@
 </addon>
 <addon id="plugin.video.thedogsbollocks"
        name="The Dogs Bollocks"
-       version="1.04"
+       version="1.05"
        provider-name="Dogs Bollocks">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
