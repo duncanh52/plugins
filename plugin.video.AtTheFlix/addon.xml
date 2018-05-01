@@ -14,8 +14,8 @@
 		<import addon="plugin.video.youtube" version="3.0.0"/>
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
         <import addon="script.module.resolveurl" />
-		<import addon="script.module.ATFTV" />
-		<import addon="script.module.ATFlive" />
+	<import addon="script.module.ATFTV" />
+	<import addon="script.module.ATFlive" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
